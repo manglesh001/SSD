@@ -1,2 +1,2 @@
-# SSD
-SSD Assignment
+# SSD -- SOFTWARE SYSTEM DEVELOPMENT
+SSD Activity && Assignment
