@@ -1,6 +1,6 @@
 // Replace with your Spotify API credentials
-const clientId = 'Client Id key';
-const clientSecret = 'Client Secret key';
+const clientId = 'Client Id key';   // Replace with client Id key like ef45hj5jk-------------
+const clientSecret = 'Client Secret key';   // Replace with client Secret key like r5h6kjdjj3j99395-------------
 
 // Spotify API endpoints
 const apiUrl = 'https://api.spotify.com/v1';
